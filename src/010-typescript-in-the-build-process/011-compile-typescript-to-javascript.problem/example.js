@@ -2,4 +2,4 @@
 const run = (message) => {
     console.log(message);
 };
-run("Hello!");
+run("Hello CarthageX Labs!");
